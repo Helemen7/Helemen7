@@ -1,6 +1,7 @@
 # Welcome to Helemen7 👋
 
-Welcome to my GitHub page! Have a look!
+Hello everyone, I am a High School student, interested in Machine Learning, Robotics and Data Science.
 
-🌐 Portfolio: **work in progress**
+I am open to collaborate to every project that I might be interested in.
+
 📫 Contact me: helemen7.matteo@gmail.com

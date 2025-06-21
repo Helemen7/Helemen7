@@ -1,4 +1,4 @@
-# Benvenuto su helemen7 👋
+# Welcome to Helemen7 👋
 
 Welcome to my GitHub page! Have a look!
 

@@ -4,7 +4,7 @@ Hello everyone, I am a High School student, interested in C++ developement, spec
 I am open to collaborate to every project that I might be interested in.
 
 
-**Right now I am working on** developement of a multi-threaded robot for Robocup Rescue Maze competition in C++ using HFT-like techniques! (Private at the moment)
+**Right now I am working on** the developement of some projects for my quant portfolio!
 
 
 Contact me:
